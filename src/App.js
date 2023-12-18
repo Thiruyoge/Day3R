@@ -1,5 +1,4 @@
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min";
+
 import pic1 from "./images/pic1.jpg";
 import pic2 from "./images/2.jpg";
 import pic3 from "./images/3.jpg";
